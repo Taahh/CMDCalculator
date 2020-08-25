@@ -27,10 +27,6 @@ public class CMDCalculator
         double first, second;
         char operator;
 
-        first = 0;
-        second = 0;
-        operator = '0';
-
         double result = 0;
         do {
 
